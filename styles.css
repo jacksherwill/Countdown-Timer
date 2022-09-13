@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    background-image: url(https://images.unsplash.com/photo-1531686439506-94a7afa3e7db?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80);
+}
+
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.timer {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+}
+
+.timer-days {
+    text-align: center;
+}
+
+.days-c {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.timer-hours {
+    text-align: center;
+}
+
+
+.hours-c {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.timer-minutes {
+    text-align: center;
+}
+
+.minutes-c {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.timer-seconds {
+    text-align: center;
+}
+
+.seconds-c {
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.timertag {
+    font-size: 1.3rem;
+    font-weight: bold;
+}
+
+
+
